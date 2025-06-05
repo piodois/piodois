@@ -6,7 +6,7 @@
 
 <hr/>
 
-<img align='right' src='https://octodex.github.com/images/minion.png' width='25%'>
+<img align='right' src='https://octodex.github.com/images/daftpunktocat-guy.png' width='25%' style='background: transparent; border-radius: 50%;'>
 
 {  
 
