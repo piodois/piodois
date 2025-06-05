@@ -37,10 +37,10 @@
 <h2 align="center">🚀 Proyectos Destacados</h2>
 <p align="center">Echa un vistazo a mis proyectos más destacados.</p>
   
-| <a href="#" target="_blank">**Sistema RAG Chatbot**</a> | <a href="#" target="_blank">**Sistema Atención Ciudadana**</a> | <a href="#" target="_blank">**Gestión Contratistas**</a> | <a href="#" target="_blank">**APIs GraphQL**</a> |
+| <a href="https://github.com/piodois/CryptoVault" target="_blank">**CryptoVault**</a> | <a href="https://github.com/piodois/GraphQL" target="_blank">**GraphQL API**</a> | <a href="https://github.com/piodois/realtime-chat-api" target="_blank">**Realtime Chat**</a> | <a href="https://github.com/piodois/FastAPI" target="_blank">**FastAPI System**</a> |
 | :---: | :---: | :---: | :---: |
-<img align='center' src='https://cdn-icons-png.flaticon.com/512/4712/4712027.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://cdn-icons-png.flaticon.com/512/3135/3135715.png' height='100px'>  | <img align='center' src='https://cdn-icons-png.flaticon.com/512/1995/1995515.png' width="100px" height='100px'> | <img align='center' src='https://cdn-icons-png.flaticon.com/512/2164/2164832.png' width="100px" height='100px'> |
-| <p>Chatbot avanzado con modelos RAG y Azure AI</p> <a href="#" target="_blank">`Repository`</a> | <p>Sistema que redujo tiempos de atención en 40%</p> <a href="#" target="_blank">`Repository`</a> | <p>Plataforma conforme a Ley de Subcontratación</p> <a href="#" target="_blank">`Repository`</a> | <p>APIs escalables con GraphQL y .NET</p> <a href="#" target="_blank">`Repository`</a> |
+<img align='center' src='https://cdn-icons-png.flaticon.com/512/6001/6001368.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://cdn-icons-png.flaticon.com/512/2164/2164832.png' height='100px'>  | <img align='center' src='https://cdn-icons-png.flaticon.com/512/724/724664.png' width="100px" height='100px'> | <img align='center' src='https://cdn-icons-png.flaticon.com/512/2164/2164747.png' width="100px" height='100px'> |
+| <p>Plataforma de gestión de criptomonedas con Next.js 15 y tRPC</p> <a href="https://github.com/piodois/CryptoVault" target="_blank">`Repository`</a> | <p>API GraphQL con FastAPI y SQL Server usando Strawberry</p> <a href="https://github.com/piodois/GraphQL" target="_blank">`Repository`</a> | <p>Sistema de chat en tiempo real con .NET 8 y SignalR</p> <a href="https://github.com/piodois/realtime-chat-api" target="_blank">`Repository`</a> | <p>API REST con FastAPI, SQL Server y autenticación JWT</p> <a href="https://github.com/piodois/FastAPI" target="_blank">`Repository`</a> |
 <br/>
 
 <h2 align="center">🌱 Mis Habilidades</h2>
@@ -70,8 +70,12 @@
 <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
 <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/graphql-E10098.svg?logo=graphql&logoColor=white"></a>
 <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"></a>
+<a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
+<a href="#"><img alt="SignalR" src="https://img.shields.io/badge/SignalR-512BD4.svg?logo=microsoft&logoColor=white"></a>
+<a href="#"><img alt="Strawberry GraphQL" src="https://img.shields.io/badge/Strawberry-E10098.svg?logo=graphql&logoColor=white"></a>
 <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwind-css&logoColor=white"></a>
+<a href="#"><img alt="tRPC" src="https://img.shields.io/badge/tRPC-2596BE.svg?logo=trpc&logoColor=white"></a>
 <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&logoColor=white"></a>
 </p>
 
@@ -80,9 +84,11 @@
 <p align="center">
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000.svg?logo=jetbrains&logoColor=white"></a>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
 <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Windows Server" src="https://img.shields.io/badge/Windows%20Server-0078D4.svg?logo=windows&logoColor=white"></a>
@@ -98,6 +104,8 @@
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle%20Cloud-F80000.svg?logo=oracle&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white"></a>
+<a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
 </p>
 
 <h4 align="center">🤖 IA y Tecnologías Emergentes</h4>
@@ -105,6 +113,7 @@
 <p align="center">
 <a href="#"><img alt="Azure AI" src="https://img.shields.io/badge/Azure%20AI-0078D4.svg?logo=microsoft-azure&logoColor=white"></a>
 <a href="#"><img alt="ChatGPT API" src="https://img.shields.io/badge/ChatGPT%20API-412991.svg?logo=openai&logoColor=white"></a>
+<a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?logo=json-web-tokens&logoColor=white"></a>
 <a href="#"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white"></a>
 <a href="#"><img alt="RAG Models" src="https://img.shields.io/badge/RAG%20Models-FF6F00.svg?logo=databricks&logoColor=white"></a>
 </p>
@@ -125,10 +134,42 @@
 
 <div align="center">
   
-[![Sistema RAG Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=piodois&repo=rag-chatbot-system&theme=algolia)](https://github.com/piodois/rag-chatbot-system)
-[![Sistema Atención Ciudadana](https://github-readme-stats.vercel.app/api/pin/?username=piodois&repo=citizen-service-system&theme=algolia)](https://github.com/piodois/citizen-service-system)
+[![CryptoVault](https://github-readme-stats.vercel.app/api/pin/?username=piodois&repo=CryptoVault&theme=algolia)](https://github.com/piodois/CryptoVault)
+[![GraphQL API](https://github-readme-stats.vercel.app/api/pin/?username=piodois&repo=GraphQL&theme=algolia)](https://github.com/piodois/GraphQL)
+[![Realtime Chat API](https://github-readme-stats.vercel.app/api/pin/?username=piodois&repo=realtime-chat-api&theme=algolia)](https://github.com/piodois/realtime-chat-api)
+[![FastAPI System](https://github-readme-stats.vercel.app/api/pin/?username=piodois&repo=FastAPI&theme=algolia)](https://github.com/piodois/FastAPI)
 
 </div>
+
+<h2 align="center">💼 Experiencia Técnica</h2>
+
+<details>
+<summary><b>🚀 Desarrollador Full Stack | Aurafy (Enero 2025 - Marzo 2025)</b></summary>
+<br>
+
+- **Chatbot RAG avanzado**: Sistema con modelos RAG utilizando ChatGPT API y Azure AI Services
+- **Sistema de gestión documental**: Plataforma completa para contratistas conforme a Ley de Subcontratación
+- **Stack tecnológico**: FastAPI (Python), React, TypeScript, PostgreSQL, Docker, CI/CD
+- **Infraestructura**: Despliegues automatizados en Azure con estándares ISO 27001
+
+</details>
+
+<details>
+<summary><b>📊 Analista Programador | Municipalidad de Placilla (2024)</b></summary>
+<br>
+
+- **Sistema de atención ciudadana**: Redujo tiempos de atención en 40% mediante digitalización
+- **Arquitectura moderna**: React + Tailwind CSS (frontend), Node.js + Express + MongoDB (backend)
+- **Enfoque UX/UI**: Diseño responsive con foco en accesibilidad y usabilidad
+- **APIs optimizadas**: RESTful con optimización de rendimiento y gestión de datos
+
+</details>
+
+<h2 align="center">🎓 Formación</h2>
+
+**🏛️ Ingeniería en Informática** - INACAP Temuco (2021 - Actualidad)  
+**🎓 Analista Programador** - INACAP Temuco (Titulado 2024)  
+**📚 Autodidacta continuo** - Especialización en tecnologías cloud y arquitecturas modernas (2015 - Actualidad)
 
 <h2 align="center">🤝 Conecta Conmigo</h2>
 
@@ -141,7 +182,7 @@
 ---
 
 <p align="center">
-  <i>🚀 "Siempre explorando nuevas tecnologías y construyendo soluciones innovadoras"</i>
+  <i>🚀 "Construyendo el futuro con código limpio, arquitecturas escalables y tecnologías de vanguardia"</i>
 </p>
 
 <p align="center">
