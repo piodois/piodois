@@ -6,7 +6,7 @@
 
 <hr/>
 
-<img align='right' src='https://octodex.github.com/images/daftpunktocat-guy.png' width='25%'>  
+<img align='right' src='https://octodex.github.com/images/codercat.jpg' width='25%'>  
 
 {  
 
@@ -39,7 +39,7 @@
   
 | <a href="https://github.com/piodois/CryptoVault" target="_blank">**CryptoVault**</a> | <a href="https://github.com/piodois/GraphQL" target="_blank">**GraphQL API**</a> | <a href="https://github.com/piodois/realtime-chat-api" target="_blank">**Realtime Chat**</a> | <a href="https://github.com/piodois/FastAPI" target="_blank">**FastAPI System**</a> |
 | :---: | :---: | :---: | :---: |
-<img align='center' src='https://cdn-icons-png.flaticon.com/512/6001/6001368.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://cdn-icons-png.flaticon.com/512/2164/2164832.png' height='100px'>  | <img align='center' src='https://cdn-icons-png.flaticon.com/512/724/724664.png' width="100px" height='100px'> | <img align='center' src='https://cdn-icons-png.flaticon.com/512/2164/2164747.png' width="100px" height='100px'> |
+<img align='center' src='https://cdn-icons-png.flaticon.com/512/6001/6001368.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://cdn-icons-png.flaticon.com/512/2164/2164832.png' height='100px'>  | <img align='center' src='https://cdn-icons-png.flaticon.com/512/724/724664.png' width="100px" height='100px'> | <img align='center' src='https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png' width="100px" height='100px'> |
 | <p>Plataforma de gestión de criptomonedas con Next.js 15 y tRPC</p> <a href="https://github.com/piodois/CryptoVault" target="_blank">`Repository`</a> | <p>API GraphQL con FastAPI y SQL Server usando Strawberry</p> <a href="https://github.com/piodois/GraphQL" target="_blank">`Repository`</a> | <p>Sistema de chat en tiempo real con .NET 8 y SignalR</p> <a href="https://github.com/piodois/realtime-chat-api" target="_blank">`Repository`</a> | <p>API REST con FastAPI, SQL Server y autenticación JWT</p> <a href="https://github.com/piodois/FastAPI" target="_blank">`Repository`</a> |
 <br/>
 
